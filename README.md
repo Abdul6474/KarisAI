@@ -1,43 +1,24 @@
-# KarisAI  
-Offline quiz platform for low-end Android devices in poor-connectivity areas.
+# KarisAI
 
-## Inspiration  
-In Kaduna North, a lot of students and learners are held back because of poor internet access.  
-I've seen talented youths struggle to find educational platforms that don’t demand heavy data or high-end smartphones.  
-This challenge inspired KarisAI – a lightweight, offline quiz platform built specifically for resource-constrained environments.
+📱 **KarisAI** is an offline quiz mobile application built for students with limited internet access, especially in underserved areas. It helps users practice and learn without relying on constant connectivity.
 
-## What it does  
-KarisAI allows students to take quizzes offline without internet. They can download quiz packs when they have access and use them later.
+## 🚀 Features
+- 📴 Works completely offline
+- 📚 Subject-based quiz categories
+- 📝 Multiple choice and short-answer questions
+- 📊 Instant score feedback
+- 💾 Lightweight and responsive on low-end devices
 
-## How we built it  
-- Designed using XML and Java for Android (targeting low-end phones)
-- Used Google Maps API for optional location-based features (like school centers)
-- Lightweight SQLite database for local quiz storage
-- Focused on simplicity, speed, and offline support
+## 💡 Motivation
+Many students in rural communities struggle with access to consistent internet or expensive data plans. **KarisAI** aims to bridge the digital learning divide by offering a reliable offline tool for self-paced learning.
 
-## Challenges we ran into  
-- Making the app work without internet at all
-- Keeping the app small and compatible with old Android phones
-- Building an intuitive UI without advanced animations or libraries
+## 🛠️ Built With
+- Flutter (Frontend)
+- SQLite (Local database for storing questions and answers)
+- Dart
 
-## Accomplishments that we're proud of  
-- Offline quiz system that works perfectly on budget Android phones
-- Clean, lightweight UI design
-- Map integration that doesn’t break even with slow networks
+## 🚀 Try it out
+APK and video demo coming soon — follow the project [here](https://github.com/Abdul6474/KarisAI)
 
-## What we learned  
-- How to optimize for low-resource environments
-- Handling data persistence with SQLite
-- Testing across multiple Android versions for compatibility
-
-## What's next for KarisAI  
-- Add Hausa language support for wider adoption in Northern Nigeria
-- Include offline learning videos and materials
-- Partner with schools to distribute quiz packs monthly
-
-## Built With  
-- Android Studio  
-- Java  
-- XML  
-- SQLite  
-- Google Maps API
+## 📸 Screenshots
+_You can upload a screenshot of your app's UI here later._
