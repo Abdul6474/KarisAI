@@ -18,7 +18,7 @@ Many students in rural communities struggle with access to consistent internet o
 - Dart
 
 ## 🚀 Try it out
-APK and video demo coming soon — follow the project [here](https://github.com/Abdul6474/KarisAI)
+APK and demo video coming soon — follow this project [here](https://github.com/Abdul6474/KarisAI)
 
 ## 📸 Screenshots
-_You can upload a screenshot of your app's UI here later._
+![KarisAI app screenshot](karisai_demo.png)
